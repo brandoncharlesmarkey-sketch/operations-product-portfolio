@@ -1,0 +1,9 @@
+{
+  "overtimeThreshold": 40,
+  "budgetHours": 130,
+  "staff": [
+    { "name": "Example Employee A", "workedHours": 30, "remainingScheduledHours": 14 },
+    { "name": "Example Employee B", "workedHours": 26, "remainingScheduledHours": 12 },
+    { "name": "Example Employee C", "workedHours": 32, "remainingScheduledHours": 16 }
+  ]
+}
